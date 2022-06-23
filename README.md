@@ -1,4 +1,4 @@
-# Project-Pygame - "Python Warrior"
+# Project_Pygame - "Python Warrior"
 ## Projekt zaliczeniowy z przedmiotu "Programowanie Obiektowe 2".
 Projekt polegał na zaimplementowaniu gry napisanej w języku Python, wraz z wykorzystaniem biblioteki Pygame.
 Gra "Python Warrior" składa się z trzech poziomów, przez które nawiguje nas menu:
