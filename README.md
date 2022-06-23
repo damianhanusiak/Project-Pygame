@@ -7,10 +7,10 @@ Gra "Python Warrior" składa się z trzech poziomów, przez które nawiguje nas 
   - level 3 - Poziom stworzony na podobieństwo gry "Space Invaders", sterowanie statkiem kosmicznym, który musi zestrzelić przeciwników (inne języki programowania), którzy atakują nasz statek.
 
 - Menu: <br>
-![Menu](./img/1.png)
+![Menu](./img/1.png) <br>
 
-- Level 1,2:
-![Levels12](./img/2.png)
+- Level 1,2:  <br>
+![Levels12](./img/2.png)  <br>
 
-- Level 3:
-- ![Level3](./img/3.png)
+- Level 3:  <br>
+- ![Level3](./img/3.png)  <br>
