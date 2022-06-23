@@ -1,0 +1,20 @@
+import pygame
+FPS = 60
+SCREEN_WIDTH = 864
+SCREEN_HEIGHT = 936
+GROUND_SCROLL = 0
+SCROLL_SPEED = 4
+FLYING = False
+GAME_OVER = False
+PIPE_GAP = 150
+PIPE_FREQUENCY = 1500
+LAST_PIPE = pygame.time.get_ticks() - PIPE_FREQUENCY
+SCORE = 0
+PASS_PIPE = False
+
+# level 3
+ROWS = 5
+COLS = 7
+ALIEN_COOLDOWN = 1000
+LAST_ALIEN_SHOT = pygame.time.get_ticks()
+GAME_OVER_LV3 = 0
