@@ -9,8 +9,11 @@ Gra "Python Warrior" składa się z trzech poziomów, przez które nawiguje nas 
 - Menu:<br>
 ![Menu](./img/1.png)<br>
 
-- Level 1,2:<br>
-![Levels12](./img/2.png)<br>
+- Level 1<br>
+![Level1](./img/2.png)<br>
+
+- Level 2<br>
+![Level2](./img/3.png)<br>
 
 - Level 3:<br>
-- ![Level3](./img/3.png)
+![Level3](./img/4.png)
